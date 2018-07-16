@@ -1,3 +1,7 @@
+'''
+https://www.youtube.com/watch?v=JlMyYuY1aXU&index=2&list=PLEJyjB1oGzx3iTZvOVedkT8nZ2cG105U7
+'''
+
 class Node:
     def __init__(self, data= None):
         self.data = data
